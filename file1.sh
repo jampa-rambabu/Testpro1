@@ -1,1 +1,1 @@
-echo "Welcome to Jenkins Project"
+# echo "Welcome to Jenkins Project"
